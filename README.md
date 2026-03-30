@@ -45,10 +45,10 @@ The project is organized into five tasks, each corresponding to a course module.
 | Task | Tool / Platform | Link / Resource |
 |------|-----------------|-----------------|
 | Task 1 | Canva (Infographic) | https://www.canva.com |
-| Task 2 | GitHub Profile | https://github.com/shoubhit21/Digital_literacy |
-| Task 2 | LinkedIn Profile | https://www.linkedin.com/in/shoubhit-pramanick-a778813b9/ |
-| Task 3 | Coding Platform (HackerRank) | https://www.hackerrank.com/profile/shoubhit_pm213 |
-| Task 3 | Google Form | https://forms.gle/v66z8YaHWqfopW6K8 |
+| Task 2 | GitHub Profile | https://github.com/diptabratadutta |
+| Task 2 | LinkedIn Profile | https://www.linkedin.com/in/diptabrata-dutta-451144340/ |
+| Task 3 | Coding Platform (HackerRank) | https://www.hackerrank.com/profile/diptabratadutta |
+| Task 3 | Google Form | https://docs.google.com/forms/d/e/1FAIpQLSe_RrlTMq1G8GsWTenJvHQF2a6kD3LIktNYuzWTc-U8N274Yw/viewform?usp=publish-editor |
 | Task 5 | National Cyber Crime Portal | https://cybercrime.gov.in |
 
 ---
@@ -57,6 +57,6 @@ The project is organized into five tasks, each corresponding to a course module.
 
 For any questions or feedback regarding this project, please feel free to reach out.
 
-- Email: shoubhit.25bce10083@vitbhopal.ac.in
-- GitHub: https://github.com/shoubhit21/Digital_literacy
-- LinkedIn: https://www.linkedin.com/in/shoubhit-pramanick-a778813b9/
+- Email: diptabrata.25mib10034@vitbhopal.ac.in
+- GitHub: https://github.com/diptabratadutta/Digital_literacy
+- LinkedIn: https://www.linkedin.com/in/diptabrata-dutta-451144340/
